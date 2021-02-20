@@ -12,4 +12,3 @@ I am Emily, I'm studying Computer Science and am part of the [DevSoc](https://de
 - ⚡ Fun fact: You may often find me doodling ✏️
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiipo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
