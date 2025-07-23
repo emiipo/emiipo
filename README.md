@@ -1,15 +1,5 @@
-## Hii there 👋
-I am Emily, I'm studying Computer Science and am part of the [DevSoc](https://devsoc.co.uk/home.html) committee. I see myself as very creative and besides software development I love creating & exploring different kinds of art forms. Some of the artsy things I like to invest my time into are various fictional worlds, 3D modeling, drawing art, doodling and reading stories. Switching around my style and changing things up is a must for me as it gives me a sense of something new and let's me refresh my daily routine with unfamiliar and spontanious things~
-
-<br/>
-<br/>
-
-- 🔭 I’m currently working on: Personal website & social friend managament web app
-- 🌱 I’m currently learning: React
-- 💬 Ask me about: My creative side ✨
-- 📫 How to reach me: emii.povi@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: You may often find me doodling ✏️
+## hihihihihihiiiiii 👋
+hihi you can call me Emi! I'm currently the Co-Founder and Team Lead at [SD Games](https://sdgames.co.uk/) and we're working on our first game [Eternal Damnation](https://store.steampowered.com/app/2576280/Eternal_Damnation). I take up many jobs here so you might find me developing new systems, working on existing ones, level designing, managing company stuff, updating the website or messing with our linux server to ease development. In my free time I've recently been getting into Arch Linux and sorting out gaming on linux, I also mess around with my private server and host several personal applications like an IPTV channel emulator or a minecraft server :) I also love exploring interesting tech so once in a while I'll try to combine two pieces of tech that should not work together hehe~
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiipo&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
